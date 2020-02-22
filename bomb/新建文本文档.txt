@@ -1,0 +1,10 @@
+Border relations with Canada have never been better.
+//0x7ffffffde380 0x7ffffffde384 0x7ffffffde394 0x7ffffffde390 0x7ffffffde38c 0x7ffffffde388
+1 2 4 8 16 32
+2 707(0x2c3 at *0x400f83)
+1 0
+//maduiersnfotvbylSo you think you can stop the bomb with ctrl-c, do you?
+//flyers
+ionefg
+//node list
+4 3 2 1 6 5
